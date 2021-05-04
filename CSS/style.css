@@ -75,6 +75,7 @@ main article img {
 section div img {
     width: 40%;
     float: left;
+    height: 325px;
 }
 
 section article {
@@ -101,4 +102,13 @@ section article a {
 p{
     height: 250px;
     overflow: scroll;
+}
+
+footer{
+    padding: 50px;
+    background-color: black;
+    
+    margin-left: 75px;
+    margin-right: 35%;
+    
 }
